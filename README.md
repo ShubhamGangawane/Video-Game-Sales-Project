@@ -9,8 +9,7 @@
 - Analysing sales data from more than 16,500 games
 
 - All the Sales NA_Sales, EU_sales, JP_sales are (in millions) 
-
-
+- 
 ## About the project:
  - The Project is about Video Games Sales from over the Three  Regions : NA, EU, JP and their comparison for which of the  regions is famous for the type of game as well as their Comparison between the Game, Game sales, Publshers, Genre,  Platform. 
 
@@ -22,7 +21,6 @@
 - eg: In india the pubg mobile game is made a huge impact for the game developers Krafton and there sales which cross like (1,736 Cr) and number 1 mobile game ever to be made.  
 
 #### What is the conclusion
-
 - With The help of analysis i just want to conclude :
 1. Which is the highest number of game sold and the years in    which the games are developed
 2. Which game is the most sold game globally and
@@ -32,12 +30,9 @@
 6. And How much a gaming Publisher acutally make once the game    is released and which are the top publishers
 7. Which type of games (action, shooter etc) does the best    business in video game market
  
-
 - With the Help of Essential Libraries like numpy , pandas , matplotlib and seaborn the steps that i took to find the conclusion.
 
-
 - Pandas Methods which are used in these project-: *info(),desribe(),isna(),sum(),fillna() *value_counts(),groupby() *idxmax(),idxmin(), *unique()
-
 - Graph which are used-: ->For plotting i have used matplotlib.pyplot and seaborn
         Bar graph
         Pie chart
