@@ -36,4 +36,11 @@
 - With the Help of Essential Libraries like numpy , pandas , matplotlib and seaborn the steps that i took to find the conclusion.
 
 
+- Pandas Methods which are used in these project-: *info(),desribe(),isna(),sum(),fillna() *value_counts(),groupby() *idxmax(),idxmin(), *unique()
+
+- Graph which are used-: ->For plotting i have used matplotlib.pyplot and seaborn
+        Bar graph
+        Pie chart
+        Countplot
+        Lineplot
 
